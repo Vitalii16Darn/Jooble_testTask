@@ -1,0 +1,15 @@
+C:\C# prodgects\JoobleTest\JoobleTest\bin\Debug\net6.0\JoobleTest.exe
+C:\C# prodgects\JoobleTest\JoobleTest\bin\Debug\net6.0\JoobleTest.deps.json
+C:\C# prodgects\JoobleTest\JoobleTest\bin\Debug\net6.0\JoobleTest.runtimeconfig.json
+C:\C# prodgects\JoobleTest\JoobleTest\bin\Debug\net6.0\JoobleTest.dll
+C:\C# prodgects\JoobleTest\JoobleTest\bin\Debug\net6.0\JoobleTest.pdb
+C:\C# prodgects\JoobleTest\JoobleTest\obj\Debug\net6.0\JoobleTest.csproj.AssemblyReference.cache
+C:\C# prodgects\JoobleTest\JoobleTest\obj\Debug\net6.0\JoobleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# prodgects\JoobleTest\JoobleTest\obj\Debug\net6.0\JoobleTest.AssemblyInfoInputs.cache
+C:\C# prodgects\JoobleTest\JoobleTest\obj\Debug\net6.0\JoobleTest.AssemblyInfo.cs
+C:\C# prodgects\JoobleTest\JoobleTest\obj\Debug\net6.0\JoobleTest.csproj.CoreCompileInputs.cache
+C:\C# prodgects\JoobleTest\JoobleTest\obj\Debug\net6.0\JoobleTest.dll
+C:\C# prodgects\JoobleTest\JoobleTest\obj\Debug\net6.0\refint\JoobleTest.dll
+C:\C# prodgects\JoobleTest\JoobleTest\obj\Debug\net6.0\JoobleTest.pdb
+C:\C# prodgects\JoobleTest\JoobleTest\obj\Debug\net6.0\JoobleTest.genruntimeconfig.cache
+C:\C# prodgects\JoobleTest\JoobleTest\obj\Debug\net6.0\ref\JoobleTest.dll
