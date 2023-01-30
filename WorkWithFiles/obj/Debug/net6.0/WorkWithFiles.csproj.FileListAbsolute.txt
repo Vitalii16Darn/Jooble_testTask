@@ -1,0 +1,12 @@
+C:\C# prodgects\JoobleTest\WorkWithFiles\bin\Debug\net6.0\WorkWithFiles.deps.json
+C:\C# prodgects\JoobleTest\WorkWithFiles\bin\Debug\net6.0\WorkWithFiles.dll
+C:\C# prodgects\JoobleTest\WorkWithFiles\bin\Debug\net6.0\WorkWithFiles.pdb
+C:\C# prodgects\JoobleTest\WorkWithFiles\obj\Debug\net6.0\WorkWithFiles.csproj.AssemblyReference.cache
+C:\C# prodgects\JoobleTest\WorkWithFiles\obj\Debug\net6.0\WorkWithFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# prodgects\JoobleTest\WorkWithFiles\obj\Debug\net6.0\WorkWithFiles.AssemblyInfoInputs.cache
+C:\C# prodgects\JoobleTest\WorkWithFiles\obj\Debug\net6.0\WorkWithFiles.AssemblyInfo.cs
+C:\C# prodgects\JoobleTest\WorkWithFiles\obj\Debug\net6.0\WorkWithFiles.csproj.CoreCompileInputs.cache
+C:\C# prodgects\JoobleTest\WorkWithFiles\obj\Debug\net6.0\WorkWithFiles.dll
+C:\C# prodgects\JoobleTest\WorkWithFiles\obj\Debug\net6.0\refint\WorkWithFiles.dll
+C:\C# prodgects\JoobleTest\WorkWithFiles\obj\Debug\net6.0\WorkWithFiles.pdb
+C:\C# prodgects\JoobleTest\WorkWithFiles\obj\Debug\net6.0\ref\WorkWithFiles.dll

@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "JoobleTest/1.0.0": {
+        "dependencies": {
+          "WorkWithFiles": "1.0.0"
+        },
         "runtime": {
           "JoobleTest.dll": {}
+        }
+      },
+      "WorkWithFiles/1.0.0": {
+        "runtime": {
+          "WorkWithFiles.dll": {}
         }
       }
     }
   },
   "libraries": {
     "JoobleTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WorkWithFiles/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

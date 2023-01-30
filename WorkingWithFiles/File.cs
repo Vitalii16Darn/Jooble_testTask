@@ -4,24 +4,24 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace JoobleTest
+namespace WorkingWithFiles
 {
     internal static class File
     {
         static public async Task<List<string>> ReadFromFile(string path)
         {
             string text = "";
-            using(StreamReader sr = new StreamReader(path))
+            using (StreamReader sr = new StreamReader(path))
             {
-                text=await sr.ReadToEndAsync();
+                text = await sr.ReadToEndAsync();
             }
-            List<string> words=text.ToLower().Split('\n').ToList();
+            List<string> words = text.ToLower().Split('\n').ToList();
             return words;
         }
 
         static public async void WriteToFile(string path, string text)
         {
-            using(StreamWriter sw = new StreamWriter(path,false)) //перезаписуємо файл, не дописуючи зміни в кінець
+            using (StreamWriter sw = new StreamWriter(path, false)) //перезаписуємо файл, не дописуючи зміни в кінець
             {
                 await sw.WriteAsync(text);
             }

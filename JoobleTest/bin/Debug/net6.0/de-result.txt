@@ -1,200 +1,201 @@
-(in) arbeitsamt -> (out) arbeitsamt, 
+В консолі працюючого додатку для кожного тестового слова можна знайти список слів зі словника, які підходять як потенційні частини цього довгого слова
+(in) arbeitsamt -> (out) arbeitsamt, //слово, яке неможливо розбити
 
-(in) krankenhaus -> (out) kranken, haus, 
+(in) krankenhaus -> (out) kranken, haus, //слово яке змогли розбити
 
-(in) kraftfahrer -> (out) kraft, fahrer, 
+(in) kraftfahrer -> (out) kraft, fahrer, //слово яке змогли розбити
 
-(in) online -> (out) online, 
+(in) online -> (out) online, //слово, яке неможливо розбити
 
-(in) büro -> (out) büro, 
+(in) büro -> (out) büro, //слово, яке неможливо розбити
 
-(in) erzieher -> (out) erzieher, 
+(in) erzieher -> (out) erzieher, //слово, яке неможливо розбити
 
-(in) teilzeit -> (out) teil, zeit, 
+(in) teilzeit -> (out) teil, zeit, //слово яке змогли розбити
 
-(in) erzieherin -> (out) erzieherin, 
+(in) erzieherin -> (out) erzieherin, //слово, яке неможливо розбити
 
-(in) verkäuferin -> (out) verkäuferin, 
+(in) verkäuferin -> (out) verkäuferin, //слово, яке неможливо розбити
 
-(in) sekretärin -> (out) sekretärin, 
+(in) sekretärin -> (out) sekretärin, //слово, яке неможливо розбити
 
-(in) minijob -> (out) minijob, 
+(in) minijob -> (out) minijob, //слово, яке неможливо розбити
 
-(in) arzthelferin -> (out) arzthelferin, 
+(in) arzthelferin -> (out) arzthelferin, //слово, яке неможливо розбити
 
-(in) marketing -> (out) marketing, 
+(in) marketing -> (out) marketing, //слово, яке неможливо розбити
 
-(in) meister -> (out) meister, 
+(in) meister -> (out) meister, //слово, яке неможливо розбити
 
-(in) küchenhilfe -> (out) küchen, hilfe, 
+(in) küchenhilfe -> (out) küchen, hilfe, //слово яке змогли розбити
 
-(in) koch -> (out) koch, 
+(in) koch -> (out) koch, //слово, яке неможливо розбити
 
-(in) reinigungskraft -> (out) reinigungskraft, 
+(in) reinigungskraft -> (out) reinigungskraft, //слово, яке неможливо розбити
 
-(in) bundeswehr -> (out) bundes, wehr, 
+(in) bundeswehr -> (out) bundes, wehr, //слово яке змогли розбити
 
-(in) sozialarbeit -> (out) sozialarbeit, 
+(in) sozialarbeit -> (out) sozialarbeit, //слово, яке неможливо розбити
 
-(in) sport -> (out) sport, 
+(in) sport -> (out) sport, //слово, яке неможливо розбити
 
-(in) bosch -> (out) bosch, 
+(in) bosch -> (out) bosch, //слово, яке неможливо розбити
 
-(in) fahrer -> (out) fahrer, 
+(in) fahrer -> (out) fahrer, //слово, яке неможливо розбити
 
-(in) ausland -> (out) ausland, 
+(in) ausland -> (out) ausland, //слово, яке неможливо розбити
 
-(in) praktikum -> (out) praktikum, 
+(in) praktikum -> (out) praktikum, //слово, яке неможливо розбити
 
-(in) medizinische -> (out) medizinische, 
+(in) medizinische -> (out) medizinische, //слово, яке неможливо розбити
 
-(in) rathaus -> (out) rat, haus, 
+(in) rathaus -> (out) rat, haus, //слово яке змогли розбити
 
-(in) bürokraft -> (out) büro, kraft, 
+(in) bürokraft -> (out) büro, kraft, //слово яке змогли розбити
 
-(in) schweißer -> (out) schweißer, 
+(in) schweißer -> (out) schweißer, //слово, яке неможливо розбити
 
-(in) jurist -> (out) jurist, 
+(in) jurist -> (out) jurist, //слово, яке неможливо розбити
 
-(in) vollzeit -> (out) vollzeit, 
+(in) vollzeit -> (out) vollzeit, //слово, яке неможливо розбити
 
-(in) soziale -> (out) soziale, 
+(in) soziale -> (out) soziale, //слово, яке неможливо розбити
 
-(in) medien -> (out) medien, 
+(in) medien -> (out) medien, //слово, яке неможливо розбити
 
-(in) aushilfe -> (out) aushilfe, 
+(in) aushilfe -> (out) aushilfe, //слово, яке неможливо розбити
 
-(in) arzt -> (out) arzt, 
+(in) arzt -> (out) arzt, //слово, яке неможливо розбити
 
-(in) mode -> (out) mode, 
+(in) mode -> (out) mode, //слово, яке неможливо розбити
 
-(in) bürokauffrau -> (out) büro, kauffrau, 
+(in) bürokauffrau -> (out) büro, kauffrau, //слово яке змогли розбити
 
-(in) kaufmann -> (out) kauf, mann, 
+(in) kaufmann -> (out) kauf, mann, //слово яке змогли розбити
 
-(in) englisch -> (out) englisch, 
+(in) englisch -> (out) englisch, //слово, яке неможливо розбити
 
-(in) chemiker -> (out) chemiker, 
+(in) chemiker -> (out) chemiker, //слово, яке неможливо розбити
 
-(in) kindergarten -> (out) kinder, garten, 
+(in) kindergarten -> (out) kinder, garten, //слово яке змогли розбити
 
-(in) rewe -> (out) rewe, 
+(in) rewe -> (out) rewe, //слово, яке неможливо розбити
 
-(in) klinikum -> (out) klinikum, 
+(in) klinikum -> (out) klinikum, //слово, яке неможливо розбити
 
-(in) pädagogik -> (out) pädagogik, 
+(in) pädagogik -> (out) pädagogik, //слово, яке неможливо розбити
 
-(in) hausmeister -> (out) haus, meister, 
+(in) hausmeister -> (out) haus, meister, //слово яке змогли розбити
 
-(in) pharma -> (out) pharma, 
+(in) pharma -> (out) pharma, //слово, яке неможливо розбити
 
-(in) lidl -> (out) lidl, 
+(in) lidl -> (out) lidl, //слово, яке неможливо розбити
 
-(in) pta -> (out) pta, 
+(in) pta -> (out) pta, //слово, яке неможливо розбити
 
-(in) psychologie -> (out) psychologie, 
+(in) psychologie -> (out) psychologie, //слово, яке неможливо розбити
 
-(in) lebensmittel -> (out) lebensmittel, 
+(in) lebensmittel -> (out) lebensmittel, //слово, яке неможливо розбити
 
-(in) lebenshilfe -> (out) lebens, hilfe, 
+(in) lebenshilfe -> (out) lebens, hilfe, //слово яке змогли розбити
 
-(in) vertrieb -> (out) vertrieb, 
+(in) vertrieb -> (out) vertrieb, //слово, яке неможливо розбити
 
-(in) heimarbeit -> (out) heim, arbeit, 
+(in) heimarbeit -> (out) heim, arbeit, //слово яке змогли розбити
 
-(in) zeitung -> (out) zeitung, 
+(in) zeitung -> (out) zeitung, //слово, яке неможливо розбити
 
-(in) klinik -> (out) klinik, 
+(in) klinik -> (out) klinik, //слово, яке неможливо розбити
 
-(in) verlag -> (out) verlag, 
+(in) verlag -> (out) verlag, //слово, яке неможливо розбити
 
-(in) berufskraftfahrer -> (out) berufskraftfahrer, 
+(in) berufskraftfahrer -> (out) berufskraftfahrer, //слово, яке неможливо розбити
 
-(in) airbus -> (out) airbus, 
+(in) airbus -> (out) airbus, //слово, яке неможливо розбити
 
-(in) flughafen -> (out) flughafen, 
+(in) flughafen -> (out) flughafen, //слово, яке неможливо розбити
 
-(in) altenpflegerin -> (out) alten, pflegerin, 
+(in) altenpflegerin -> (out) alten, pflegerin, //слово яке змогли розбити
 
-(in) nebenjob -> (out) nebenjob, 
+(in) nebenjob -> (out) nebenjob, //слово, яке неможливо розбити
 
-(in) edeka -> (out) edeka, 
+(in) edeka -> (out) edeka, //слово, яке неможливо розбити
 
-(in) uni -> (out) uni, 
+(in) uni -> (out) uni, //слово, яке неможливо розбити
 
-(in) heilerziehungspfleger -> (out) heilerziehungspfleger, 
+(in) heilerziehungspfleger -> (out) heilerziehungspfleger, //слово, яке неможливо розбити
 
-(in) bankkauffrau -> (out) bank, kauffrau, 
+(in) bankkauffrau -> (out) bank, kauffrau, //слово яке змогли розбити
 
-(in) einzelhandel -> (out) einzel, handel, 
+(in) einzelhandel -> (out) einzel, handel, //слово яке змогли розбити
 
-(in) altenheim -> (out) alten, heim, 
+(in) altenheim -> (out) alten, heim, //слово яке змогли розбити
 
-(in) buchhalter -> (out) buch, halter, 
+(in) buchhalter -> (out) buch, halter, //слово яке змогли розбити
 
-(in) energie -> (out) energie, 
+(in) energie -> (out) energie, //слово, яке неможливо розбити
 
-(in) empfang -> (out) empfang, 
+(in) empfang -> (out) empfang, //слово, яке неможливо розбити
 
-(in) gastronomie -> (out) gastronomie, 
+(in) gastronomie -> (out) gastronomie, //слово, яке неможливо розбити
 
-(in) altenpflege -> (out) alten, pflege, 
+(in) altenpflege -> (out) alten, pflege, //слово яке змогли розбити
 
-(in) versicherung -> (out) versicherung, 
+(in) versicherung -> (out) versicherung, //слово, яке неможливо розбити
 
-(in) architekt -> (out) architekt, 
+(in) architekt -> (out) architekt, //слово, яке неможливо розбити
 
-(in) feuerwehr -> (out) feuerwehr, 
+(in) feuerwehr -> (out) feuerwehr, //слово, яке неможливо розбити
 
-(in) zeitarbeit -> (out) zeit, arbeit, 
+(in) zeitarbeit -> (out) zeit, arbeit, //слово яке змогли розбити
 
-(in) weihnachtsmarkt -> (out) weihnachtsmarkt, 
+(in) weihnachtsmarkt -> (out) weihnachtsmarkt, //слово, яке неможливо розбити
 
-(in) bautechniker -> (out) bau, techniker, 
+(in) bautechniker -> (out) bau, techniker, //слово яке змогли розбити
 
-(in) französisch -> (out) französisch, 
+(in) französisch -> (out) französisch, //слово, яке неможливо розбити
 
-(in) it -> (out) it, 
+(in) it -> (out) it, //слово, яке неможливо розбити
 
-(in) biologie -> (out) biologie, 
+(in) biologie -> (out) biologie, //слово, яке неможливо розбити
 
-(in) mercedes -> (out) mercedes, 
+(in) mercedes -> (out) mercedes, //слово, яке неможливо розбити
 
-(in) staplerfahrer -> (out) stapler, fahrer, 
+(in) staplerfahrer -> (out) stapler, fahrer, //слово яке змогли розбити
 
-(in) lagerlogistik -> (out) lagerlogistik, 
+(in) lagerlogistik -> (out) lagerlogistik, //слово, яке неможливо розбити
 
-(in) tageszeitung -> (out) tages, zeitung, 
+(in) tageszeitung -> (out) tages, zeitung, //слово яке змогли розбити
 
-(in) bauzeichner -> (out) bauzeichner, 
+(in) bauzeichner -> (out) bauzeichner, //слово, яке неможливо розбити
 
-(in) stadtwerke -> (out) stadt, werke, 
+(in) stadtwerke -> (out) stadt, werke, //слово яке змогли розбити
 
-(in) helfer -> (out) helfer, 
+(in) helfer -> (out) helfer, //слово, яке неможливо розбити
 
-(in) polizei -> (out) polizei, 
+(in) polizei -> (out) polizei, //слово, яке неможливо розбити
 
-(in) ingenieur -> (out) ingenieur, 
+(in) ingenieur -> (out) ingenieur, //слово, яке неможливо розбити
 
-(in) immobilien -> (out) immobilien, 
+(in) immobilien -> (out) immobilien, //слово, яке неможливо розбити
 
-(in) landratsamt -> (out) landratsamt, 
+(in) landratsamt -> (out) landratsamt, //слово, яке неможливо розбити
 
-(in) assistenzarzt -> (out) assistenz, arzt, 
+(in) assistenzarzt -> (out) assistenz, arzt, //слово яке змогли розбити
 
-(in) kita -> (out) kita, 
+(in) kita -> (out) kita, //слово, яке неможливо розбити
 
-(in) textil -> (out) textil, 
+(in) textil -> (out) textil, //слово, яке неможливо розбити
 
-(in) hotel -> (out) hotel, 
+(in) hotel -> (out) hotel, //слово, яке неможливо розбити
 
-(in) bildung -> (out) bildung, 
+(in) bildung -> (out) bildung, //слово, яке неможливо розбити
 
-(in) fotograf -> (out) fotograf, 
+(in) fotograf -> (out) fotograf, //слово, яке неможливо розбити
 
-(in) sap -> (out) sap, 
+(in) sap -> (out) sap, //слово, яке неможливо розбити
 
-(in) bahn -> (out) bahn, 
+(in) bahn -> (out) bahn, //слово, яке неможливо розбити
 
-(in) volksbank -> (out) volks, bank, 
+(in) volksbank -> (out) volks, bank, //слово яке змогли розбити
 

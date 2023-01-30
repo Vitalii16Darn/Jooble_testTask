@@ -13,3 +13,6 @@ C:\C# prodgects\JoobleTest\JoobleTest\obj\Debug\net6.0\refint\JoobleTest.dll
 C:\C# prodgects\JoobleTest\JoobleTest\obj\Debug\net6.0\JoobleTest.pdb
 C:\C# prodgects\JoobleTest\JoobleTest\obj\Debug\net6.0\JoobleTest.genruntimeconfig.cache
 C:\C# prodgects\JoobleTest\JoobleTest\obj\Debug\net6.0\ref\JoobleTest.dll
+C:\C# prodgects\JoobleTest\JoobleTest\obj\Debug\net6.0\JoobleTest.csproj.CopyComplete
+C:\C# prodgects\JoobleTest\JoobleTest\bin\Debug\net6.0\WorkWithFiles.dll
+C:\C# prodgects\JoobleTest\JoobleTest\bin\Debug\net6.0\WorkWithFiles.pdb
